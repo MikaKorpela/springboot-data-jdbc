@@ -1,1 +1,1 @@
-# springboot-data-jdbc
+# springboot-data-jdbc-mysql
